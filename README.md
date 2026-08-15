@@ -1,8 +1,8 @@
-# EX NO: Cloud-account-set-up-and-services
+# EX NO - 1: Cloud-account-set-up-and-services
 ~~~
-Name :P.T GIRE SHANKAR
+Name: SANTHOSH S
 
-Reg no: 212224050008
+Reg no: 212224100052
 ~~~
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
@@ -79,10 +79,8 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 # Services Overview:
 • Explore all the available services in AWS platform.
 # Output:
+<img width="1920" height="1200" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/e7e9c427-13cd-4072-8610-c8892734c8bf" />
 
-![image](https://github.com/user-attachments/assets/54122f2f-f156-4b78-9b07-730a343f511d)
-
-![image](https://github.com/user-attachments/assets/6151762a-f261-4c40-adbe-37a6b38cd2d0)
 
 # Result:
 Thus an account was created in AWS platform and all the services were explored.
